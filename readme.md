@@ -4,13 +4,16 @@
     ![3](https://github.com/user-attachments/assets/922fd472-8485-4c78-bed1-5e683336cfe5)
 >Ficheros Iniciales:
 
-    ![f](https://github.com/user-attachments/assets/2a9eec23-eb97-49e7-85a2-356dbd409fbf)
+    ![f](https://github.com/user-attachments/assets/f4f541fc-ae70-4982-908e-cfb3421b0d9c)
+
 >Configuración de Git y GitHub:
   - install git bash
     
     ![git bach](https://github.com/user-attachments/assets/7bc5e093-8975-4110-9c8e-87742ab3fb29)
 
  -Par de claves SSH:
-   
+ 
+    ![cle ssh](https://github.com/user-attachments/assets/53a24deb-d7e5-4ac8-a2ea-bbef3211c694)
+
        añadir clave ssh a git hub
     
