@@ -8,10 +8,13 @@
 
 >Configuración de Git y GitHub:
   - install git bash
+
     ![g](https://github.com/user-attachments/assets/03251443-71bd-4c3f-af62-79825b7cf55a)
 
     -Par de claves SSH:
+    
      ![c](https://github.com/user-attachments/assets/eecc7577-b301-46b9-8160-557304efa707)
+
 
        añadir clave ssh a git hub
         
