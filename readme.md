@@ -17,12 +17,13 @@
 
 
     -añadir clave ssh a git hub
+    
 
      ![s](https://github.com/user-attachments/assets/61cbf0d6-1eb3-4023-a427-c71ea8e6b5f3
 
      -test ssh
 
-       ![git clone](https://github.com/user-attachments/assets/f4739ae0-67d3-40df-b7bf-f3722b809bd8)
+    ![git clone](https://github.com/user-attachments/assets/f4739ae0-67d3-40df-b7bf-f3722b809bd8)
 
 
     -perfil de github
