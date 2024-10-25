@@ -20,5 +20,9 @@
 
      ![s](https://github.com/user-attachments/assets/61cbf0d6-1eb3-4023-a427-c71ea8e6b5f3)
 
+    -perfil de github
 
+      ![p](https://github.com/user-attachments/assets/2d0f5968-e6a5-432e-b92c-2f813316c227)
+
+       
     
