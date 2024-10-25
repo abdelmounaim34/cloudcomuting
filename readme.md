@@ -16,8 +16,9 @@
      ![c](https://github.com/user-attachments/assets/eecc7577-b301-46b9-8160-557304efa707)
 
 
-       añadir clave ssh a git hub
+    -añadir clave ssh a git hub
 
-        ![s](https://github.com/user-attachments/assets/dec0188c-a107-4c63-af63-1b2f86c26c0d)
+     ![s](https://github.com/user-attachments/assets/61cbf0d6-1eb3-4023-a427-c71ea8e6b5f3)
+
 
     
