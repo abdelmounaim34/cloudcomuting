@@ -5,7 +5,7 @@ En el desarrollo de una aplicación de quiz cultural, uno de los principales des
  -Base de Preguntas y Respuestas
  -Niveles y Categorías
 # Tecnología de Desarrollo
-- Frontend: Para la interfaz, usa React o Vue.js (JavaScript) si quieres una experiencia de usuario ágil y moderna.
+- Frontend: Para la interfaz, usa React o Vue.js (JavaScript)
 - Backend: Usa un marco como Node.js con Express
 - Base de Datos:MongoDB
 # Despliegue en la Nube 
