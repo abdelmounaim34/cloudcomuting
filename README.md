@@ -9,9 +9,9 @@ En el desarrollo de una aplicación de quiz cultural, uno de los principales des
 - Backend: Usa un marco como Node.js con Express
 - Base de Datos:MongoDB
 # Despliegue en la Nube 
- -Elige un Proveedor de Nube
- -Configura el Servidor
- -Base de Datos en la Nube
+ - Elige un Proveedor de Nube
+ - Configura el Servidor
+ - Base de Datos en la Nube
  
 
 # este es la configuración de git hub :
