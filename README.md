@@ -3,4 +3,4 @@
 En el desarrollo de una aplicación de quiz cultural, uno de los principales desafíos es gestionar dinámicamente una base de datos de preguntas y respuestas que permita una experiencia variada para los usuarios, manteniendo la calidad y relevancia de las preguntas. Además, la aplicación debe ser capaz de escalar eficazmente a medida que el número de usuarios aumenta, especialmente si tiene picos de uso en momentos específicos (como durante eventos culturales o educativos).
 
 # este es la configuración de git hub :
-\config.md\
+1.['config.md'] (./config.md)
